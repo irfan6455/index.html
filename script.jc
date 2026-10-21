@@ -1,0 +1,4 @@
+// Ketika tombol "Sapa Saya!" di-klik
+document.getElementById("sapaButton").addEventListener("click", function() {
+  alert("Halo! Selamat datang di website pertama Sifaidha27!");
+});
